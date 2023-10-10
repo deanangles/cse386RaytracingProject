@@ -1,5 +1,5 @@
 # cse386RaytracingProject
-Final project for cse386- Foundations of Graphics
+Final project for cse386- Foundations of Graphics in C++
 
 How to run:
   1. Download zip file and CSE386.sln file
